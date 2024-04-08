@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPfSORzdSFveQKSS2ujRizB9ZoQTre5nvFc8CDoDczlJK5h1QjE1Bke1OZjL6pNKscP0x+rHV/5e/yZqVcNMeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\Progress Test 2\\Bai Tap -1\\Bai Tap -1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
